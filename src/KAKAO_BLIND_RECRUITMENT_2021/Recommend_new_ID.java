@@ -1,6 +1,6 @@
 package KAKAO_BLIND_RECRUITMENT_2021;
 // 신규 아이디 추천
-// 테스트코드 23,25 통과아직 못한 상태
+// 테스트코드 23,25 통과 무
 public class Recommend_new_ID {
 	
 	class Solution {
