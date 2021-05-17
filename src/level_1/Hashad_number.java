@@ -1,6 +1,7 @@
 package level_1;
 
 public class Hashad_number {
+	//ÇÏ»þµå ¼ö
 	class Solution {
 	    public boolean solution(int x) {
 	        String a = Integer.toString(x);
