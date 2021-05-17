@@ -1,7 +1,7 @@
 package level_1;
 
 public class Guess_the_colatz {
-	//콜라츠 추측
+	//콜라츠 추측 
 	class Solution {
 		public int solution(int num) {
 
